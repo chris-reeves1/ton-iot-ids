@@ -1,0 +1,19 @@
+{
+  "best_params": {
+    "clf__colsample_bytree": 0.8,
+    "clf__learning_rate": 0.1,
+    "clf__max_depth": 8,
+    "clf__n_estimators": 600,
+    "clf__reg_lambda": 1.0,
+    "clf__scale_pos_weight": 1.5693182273109412,
+    "clf__subsample": 0.8
+  },
+  "cv_macro_f1_3fold": 0.7250325505488161,
+  "test_metrics": {
+    "accuracy": 0.7326111886717191,
+    "precision_macro": 0.73322302111907,
+    "recall_macro": 0.7452576066552679,
+    "f1_macro": 0.7294520136479464,
+    "roc_auc": 0.8576017999628753
+  }
+}

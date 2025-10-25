@@ -1,0 +1,14 @@
+name: tf
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - tensorflow
+  - ipykernel
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - seaborn
+  - xgboost
+prefix: /opt/anaconda3/envs/tf

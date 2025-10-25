@@ -1,0 +1,9 @@
+# data
+data/raw/*
+artifacts/processed/*.csv
+artifacts/models/*
+artifacts/figures/*.png
+
+# checkpoints
+*.joblib
+*.pkl

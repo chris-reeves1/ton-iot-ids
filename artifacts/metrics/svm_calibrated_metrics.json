@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "clf__estimator__C": 1.0
+  },
+  "cv_macro_f1_3fold": 0.5920199736139969,
+  "test_metrics": {
+    "accuracy": 0.6862659553250897,
+    "precision_macro": 0.7264860642855094,
+    "recall_macro": 0.6106181979325166,
+    "f1_macro": 0.5940055442486897,
+    "roc_auc": 0.7219629664125451
+  }
+}

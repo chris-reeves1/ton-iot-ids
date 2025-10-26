@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "strategy": "most_frequent"
+  },
+  "cv_macro_f1_3fold": null,
+  "test_metrics": {
+    "accuracy": 0.6107897885919426,
+    "precision_macro": 0.3053948942959713,
+    "recall_macro": 0.5,
+    "f1_macro": 0.3791865288181762,
+    "roc_auc": 0.5
+  }
+}
